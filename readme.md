@@ -54,6 +54,7 @@ See [Contributing](#contributing).
 
 - [AfterMarket.pl](https://www.aftermarket.pl) - Backorders and aftermarket trading for .pl domains.
 - [DomainLore](https://domainlore.uk) - Backorders and auctions for deleted .uk domain names.
+- [Domain Parachute](https://domainparachute.uk) - Drop catching for expiring .uk domains, with backorders and blind auctions using proxy bidding.
 - [Drop.com.au](https://www.drop.com.au) - Drop catching and backorders for expiring .com.au and .net.au names.
 - [DropCatch](https://www.dropcatch.com) - Drop catcher that auctions the domains they can catch. Takes backorders.
 - [Dynadot Backorders](https://www.dynadot.com/market/backorder) - Backorders for deleting domains at Dynadot.
